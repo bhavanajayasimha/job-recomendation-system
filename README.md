@@ -65,3 +65,6 @@ final_score = 0.35 * tfidf_sim
 + 0.40 * embedding_sim
 + 0.25 * logistic_reg_prob
 
+### **Conclusion**
+This project shows how modern hiring systems combine classical ML, semantic embeddings, and simple heuristics to produce meaningful ranking outputs.
+It is easy to extend, experiment with, and integrate into real HR tech stacks.
