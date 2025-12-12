@@ -61,4 +61,7 @@ Each candidate’s combined profile (skills + experience + project summary) is e
 
 ### **4️⃣ Final Ranking**
 Candidates are sorted based on:
+final_score = 0.35 * tfidf_sim
++ 0.40 * embedding_sim
++ 0.25 * logistic_reg_prob
 
