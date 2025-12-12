@@ -14,7 +14,7 @@ A lightweight, high-performance ML pipeline that ranks candidates for a job usin
 ## 🚀 **Run the Project in Google Colab**
 Click below to launch the notebook instantly:
 
-👉 **Colab Notebook:** <COLAB_LINK_HERE>
+👉 [**Colab Notebook:**](https://colab.research.google.com/drive/1CDVZCc0WZhl9JVSeyabJChtPtDMmfA3h)
 
 ---
 
